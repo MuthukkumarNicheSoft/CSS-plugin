@@ -1,4 +1,11 @@
 plugins:
-  theme_creator_share_groups:
-    default: 'trust_level_3'
-    type: 'list'
+  awesomeness_enabled:
+    default: true
+    client: true
+  awesomeness_max_volume:
+    default: 10
+    client: true
+required:
+  title:
+    client: true
+    default: "Amnimo"
