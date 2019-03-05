@@ -11,3 +11,7 @@ required:
     default: "Amnimo"
   site_description:
     default: "IOT community portal forum"
+  contact_email:
+    client: true
+    default: "muthukkumar@nichesoft.net"
+    type: email
