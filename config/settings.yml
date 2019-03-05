@@ -9,3 +9,5 @@ required:
   title:
     client: true
     default: "Amnimo"
+  site_description:
+    default: "IOT community portal forum"
