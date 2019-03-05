@@ -15,3 +15,12 @@ required:
     client: true
     default: "muthukkumar@nichesoft.net"
     type: email
+  site_contact_username:
+    default: "system"
+    type: username
+  company_name:
+    default: "Amnimo"
+  governing_law:
+    default: "Japan"
+  city_for_disputes:
+    default: "Tokyo"
